@@ -1,7 +1,7 @@
 # es6-module-polyfill
 ECMAScript6 module polyfill
 
-![](https://img.shields.io/badge/license-GPLv3.0-green) ![](https://img.shields.io/badge/version-es6_module_polyfill-blue)
+![](https://img.shields.io/badge/license-GPLv3.0-green) ![](https://img.shields.io/badge/version-1.0.0-blue)
 
 ## 支持情况
 
